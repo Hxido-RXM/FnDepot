@@ -2,16 +2,16 @@
   "clouddrive2": {
     "display_name": "clouddrive2",
     "desc": "CloudDrive 是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。注：理论上后续更新点运行界面的更新就行。",
-    "labels": ["工具", "云储存"],
+    "labels": "工具，云储存",
     "version": "0.9.15",
     "author": "CloudDrive2",
     "author_url": "https://www.clouddrive2.com/",
     "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
     "download_url": "https://github.com/Hxido-RXM/FnDepot/blob/main/clouddrive2/CloudDrive2.fpk",
     "install_type": "系统空间",
-    "size": "24.2 MB",
+    "size": "24.2",
     "history": {
-      "0.9.15": "https://github.com/cloud-fs/cloud-fs.github.io/releases"
+      "V0.9.16": "https://github.com/cloud-fs/cloud-fs.github.io/releases"
     }
   }
 }
