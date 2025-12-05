@@ -13,5 +13,20 @@
     "history": {
       "V0.9.16": "https://github.com/cloud-fs/cloud-fs.github.io/releases"
     }
+  },
+  "audiobookshelf": {
+    "display_name": "audiobookshelf",
+    "desc": "Audiobookshelf 是一个用于管理和播放有声读物的开源软件。它提供了一个用户友好的界面，使您能够组织和播放您的有声读物。",
+    "labels": "工具,有声读物,管理,播放",
+    "version": "2.31.0",
+    "author": "Audiobookshelf",
+    "author_url": "https://www.audiobookshelf.org/",
+    "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
+    "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/audiobookshelf/audiobookshelf.fpk",
+    "install_type": "系统空间",
+    "size": "89.1",
+    "history": {
+      "V2.31.0": "https://github.com/advplyr/audiobookshelf/releases"
+    }
   }
 }
