@@ -33,15 +33,15 @@
     "display_name": "embyserver",
     "desc": "Emby Server 是一个开源的媒体服务器软件，用于管理和播放您的媒体库。它提供了一个用户友好的界面，使您能够组织和播放您的电影、电视节目、音乐和照片。",
     "labels": "工具,媒体服务器,播放",
-    "version": "4.9.2.7",
+    "version": "4.9.1.90",
     "author": "Emby",
     "author_url": "https://emby.media/",
     "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
     "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/embyserver/embyserver.fpk",
     "install_type": "系统空间",
-    "size": "384.8",
+    "size": "382.44",
     "history": {
-      "V4.9.2.7": "https://emby.media/download.html"
+      "V4.9.1.90": "https://emby.media/download.html"
     }
   }
 }
