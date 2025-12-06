@@ -43,5 +43,20 @@
     "history": {
       "V4.9.1.90": "https://emby.media/download.html"
     }
+  },
+  "1panel": {
+    "display_name": "1panel",
+    "desc": "1Panel 是一个基于 Web 的开源面板，用于管理和监控您的服务器。它提供了一个用户友好的界面，使您能够轻松地管理您的服务器资源。",
+    "labels": "工具,服务器管理,监控",
+    "version": "2.0.14",
+    "author": "1Panel",
+    "author_url": "https://1panel.cn/",
+    "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
+    "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/1panel/1panel.fpk",
+    "install_type": "系统空间",
+    "size": "55.41",
+    "history": {
+      "V2.0.14": "hhttps://1panel.cn/"
+    }
   }
 }
