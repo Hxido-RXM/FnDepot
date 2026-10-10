@@ -119,6 +119,22 @@
               "size": null
             }
           }
+        },
+        "4.10.1.0": {
+          "changelog": "自建源首次发布：Emby 4.10.1.0 双架构版本",
+          "updated_at": "2026-10-10T07:16:52Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/2026.10.10/Embyserver-4.10.1.0-x86.fpk",
+              "sha256": "0fe44008963b88e0109a3e88e8d301dafa33a875b09bea7b749620333a5fd6f7",
+              "size": 247315574
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/2026.10.10/Embyserver-4.10.1.0-arm.fpk",
+              "sha256": "f6367edd56887e6418c39699f55227bc797614ff43c43ebba9cd0d95efdedc0b",
+              "size": 97392350
+            }
+          }
         }
       }
     },
