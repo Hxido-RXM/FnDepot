@@ -135,6 +135,22 @@
               "size": 97392350
             }
           }
+        },
+        "4.10.1.0-1": {
+          "changelog": "新增 video 与 render 组权限，修复硬件转码打不开 drm 设备的问题；同时包含此前的安装向导端口修复",
+          "updated_at": "2026-10-10T09:48:46Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/2026.10.10/Embyserver-4.10.1.0-1-x86.fpk",
+              "sha256": "62b58337ae78dfef9cd54de96afe994c34c3cbe6c9a7fcd51ec29be963f58571",
+              "size": 247317938
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/2026.10.10/Embyserver-4.10.1.0-1-arm.fpk",
+              "sha256": "198b7b48201c1277b7226da0431c0c4a2c6ee2e498b98b280ceab823819a425c",
+              "size": 97394811
+            }
+          }
         }
       }
     },
