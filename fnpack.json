@@ -1,62 +1,164 @@
 {
-  "clouddrive2": {
-    "display_name": "clouddrive2",
-    "desc": "CloudDrive 是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。注：理论上后续更新点运行界面的更新就行。",
-    "labels": "工具,网盘,云储存",
-    "version": "0.9.16",
-    "author": "CloudDrive2",
-    "author_url": "https://www.clouddrive2.com/",
-    "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
-    "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/clouddrive2/clouddrive2.fpk",
-    "install_type": "系统空间",
-    "size": "24.2",
-    "history": {
-      "V0.9.16": "https://github.com/cloud-fs/cloud-fs.github.io/releases"
-    }
+  "schema_version": "2",
+  "source_info": {
+    "name": "Hxido 的应用源",
+    "author": "Hxido-RXM",
+    "homepage": "https://github.com/Hxido-RXM/FnDepot",
+    "description": "飞牛 fnOS 第三方应用源。"
   },
-  "audiobookshelf": {
-    "display_name": "audiobookshelf",
-    "desc": "Audiobookshelf 是一个用于管理和播放有声读物的开源软件。它提供了一个用户友好的界面，使您能够组织和播放您的有声读物。",
-    "labels": "工具,有声读物,管理,播放",
-    "version": "2.31.0",
-    "author": "Audiobookshelf",
-    "author_url": "https://www.audiobookshelf.org/",
-    "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
-    "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/audiobookshelf/audiobookshelf.fpk",
-    "install_type": "系统空间",
-    "size": "89.1",
-    "history": {
-      "V2.31.0": "https://github.com/advplyr/audiobookshelf/releases"
-    }
-  },
-  "embyserver": {
-    "display_name": "embyserver",
-    "desc": "Emby Server 是一个开源的媒体服务器软件，用于管理和播放您的媒体库。它提供了一个用户友好的界面，使您能够组织和播放您的电影、电视节目、音乐和照片。",
-    "labels": "工具,媒体服务器,播放",
-    "version": "4.9.1.90",
-    "author": "Emby",
-    "author_url": "https://emby.media/",
-    "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
-    "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/embyserver/embyserver.fpk",
-    "install_type": "系统空间",
-    "size": "382.44",
-    "history": {
-      "V4.9.1.90": "https://emby.media/download.html"
-    }
-  },
-  "1panel": {
-    "display_name": "1panel",
-    "desc": "1Panel 是一个基于 Web 的开源面板，用于管理和监控您的服务器。它提供了一个用户友好的界面，使您能够轻松地管理您的服务器资源。",
-    "labels": "工具,服务器管理,监控",
-    "version": "2.0.14",
-    "author": "1Panel",
-    "author_url": "https://1panel.cn/",
-    "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
-    "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/1panel/1panel.fpk",
-    "install_type": "系统空间",
-    "size": "55.41",
-    "history": {
-      "V2.0.14": "hhttps://1panel.cn/"
+  "apps": {
+    "CloudDrive2": {
+      "display_name": "clouddrive2",
+      "desc": "CloudDrive 是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。注：理论上后续更新点运行界面的更新就行。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "工具",
+        "网盘",
+        "云储存"
+      ],
+      "icon_url": "CloudDrive2/ICON.PNG",
+      "preview_urls": [
+        "CloudDrive2/Preview/1.png"
+      ],
+      "readme_url": "CloudDrive2/README.md",
+      "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
+      "maintainer": "CloudDrive2",
+      "maintainer_url": "https://www.clouddrive2.com/",
+      "distributor": "Hxido-RXM",
+      "distributor_url": "https://github.com/Hxido-RXM/FnDepot",
+      "run_as": "package",
+      "install_type": "系统空间",
+      "is_docker": false,
+      "service_port": "",
+      "releases": {
+        "0.9.16": {
+          "changelog": "由旧版清单迁移；sha256/ARM 待流水线重新发布后补齐",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/clouddrive2/clouddrive2.fpk",
+              "sha256": "",
+              "size": null
+            }
+          }
+        }
+      }
+    },
+    "Audiobookshelf": {
+      "display_name": "audiobookshelf",
+      "desc": "Audiobookshelf 是一个用于管理和播放有声读物的开源软件。它提供了一个用户友好的界面，使您能够组织和播放您的有声读物。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "工具",
+        "有声读物",
+        "管理",
+        "播放"
+      ],
+      "icon_url": "Audiobookshelf/ICON.PNG",
+      "preview_urls": [
+        "Audiobookshelf/Preview/1.png"
+      ],
+      "readme_url": "Audiobookshelf/README.md",
+      "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
+      "maintainer": "Audiobookshelf",
+      "maintainer_url": "https://www.audiobookshelf.org/",
+      "distributor": "Hxido-RXM",
+      "distributor_url": "https://github.com/Hxido-RXM/FnDepot",
+      "run_as": "package",
+      "install_type": "系统空间",
+      "is_docker": false,
+      "service_port": "",
+      "releases": {
+        "2.31.0": {
+          "changelog": "由旧版清单迁移；sha256/ARM 待流水线重新发布后补齐",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/audiobookshelf/audiobookshelf.fpk",
+              "sha256": "",
+              "size": null
+            }
+          }
+        }
+      }
+    },
+    "Embyserver": {
+      "display_name": "embyserver",
+      "desc": "Emby Server 是一个开源的媒体服务器软件，用于管理和播放您的媒体库。它提供了一个用户友好的界面，使您能够组织和播放您的电影、电视节目、音乐和照片。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "工具",
+        "媒体服务器",
+        "播放"
+      ],
+      "icon_url": "Embyserver/ICON.PNG",
+      "preview_urls": [
+        "Embyserver/Preview/1.png"
+      ],
+      "readme_url": "Embyserver/README.md",
+      "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
+      "maintainer": "Emby",
+      "maintainer_url": "https://emby.media/",
+      "distributor": "Hxido-RXM",
+      "distributor_url": "https://github.com/Hxido-RXM/FnDepot",
+      "run_as": "package",
+      "install_type": "系统空间",
+      "is_docker": false,
+      "service_port": "",
+      "releases": {
+        "4.9.1.90": {
+          "changelog": "由旧版清单迁移；sha256/ARM 待流水线重新发布后补齐",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/embyserver/embyserver.fpk",
+              "sha256": "",
+              "size": null
+            }
+          }
+        }
+      }
+    },
+    "1Panel": {
+      "display_name": "1panel",
+      "desc": "1Panel 是一个基于 Web 的开源面板，用于管理和监控您的服务器。它提供了一个用户友好的界面，使您能够轻松地管理您的服务器资源。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "工具",
+        "服务器管理",
+        "监控"
+      ],
+      "icon_url": "1Panel/ICON.PNG",
+      "preview_urls": [
+        "1Panel/Preview/1.png"
+      ],
+      "readme_url": "1Panel/README.md",
+      "bug_report_url": "https://github.com/Hxido-RXM/FnDepot/issues",
+      "maintainer": "1Panel",
+      "maintainer_url": "https://1panel.cn/",
+      "distributor": "Hxido-RXM",
+      "distributor_url": "https://github.com/Hxido-RXM/FnDepot",
+      "run_as": "package",
+      "install_type": "系统空间",
+      "is_docker": false,
+      "service_port": "",
+      "releases": {
+        "2.0.14": {
+          "changelog": "由旧版清单迁移；sha256/ARM 待流水线重新发布后补齐",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/1panel/1panel.fpk",
+              "sha256": "",
+              "size": null
+            }
+          }
+        }
+      }
     }
   }
 }
