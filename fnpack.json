@@ -211,6 +211,26 @@
           }
         }
       }
+    },
+    "DDNS-GO": {
+      "releases": {
+        "1.0.1": {
+          "changelog": "自动构建：ddns-go v6.17.7",
+          "updated_at": "2026-10-12T15:57:41Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/DDNS-GO-1.0.1/DDNS-GO-1.0.1-x86.fpk",
+              "sha256": "c4daf1f6610a814c9a6aad31fa1ab2ee3d7089b16ff8283013af3c44e13592dc",
+              "size": 4822775
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/DDNS-GO-1.0.1/DDNS-GO-1.0.1-arm.fpk",
+              "sha256": "a1b4284a5178b668c3c760e61b186a2789ee49649fd224d157c3c0d00da79c82",
+              "size": 4404121
+            }
+          }
+        }
+      }
     }
   }
 }
