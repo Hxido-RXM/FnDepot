@@ -367,6 +367,26 @@
           }
         }
       }
+    },
+    "Filebrowser": {
+      "releases": {
+        "1.0.261019": {
+          "changelog": "自动构建：Filebrowser 2.63.23",
+          "updated_at": "2026-10-19T09:11:56Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Filebrowser-1.0.261019/Filebrowser-1.0.261019-x86.fpk",
+              "sha256": "95e0649e254760aa1e494e2d0a50c1725993bba8339c97f2aea45a5a4d894394",
+              "size": 15805311
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Filebrowser-1.0.261019/Filebrowser-1.0.261019-arm.fpk",
+              "sha256": "b980288b94590749cc9dae44f7ae1bc81f151d46c16b2c583dfc93567a118dfa",
+              "size": 14848307
+            }
+          }
+        }
+      }
     }
   }
 }
