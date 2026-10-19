@@ -271,6 +271,26 @@
           }
         }
       }
+    },
+    "CloudDrive": {
+      "releases": {
+        "1.0.261019": {
+          "changelog": "自动构建：CloudDrive 1.1.3",
+          "updated_at": "2026-10-19T08:46:44Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/CloudDrive-1.0.261019/CloudDrive-1.0.261019-x86.fpk",
+              "sha256": "3225b2c3543701a9e984e24f5ea3ff9d41b587ecbe2a26716e092245a006e899",
+              "size": 16564789
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/CloudDrive-1.0.261019/CloudDrive-1.0.261019-arm.fpk",
+              "sha256": "500a7d36373eff0936eba73b94079b081ebcf07f2354ede50f9bfddfcb017b97",
+              "size": 15636028
+            }
+          }
+        }
+      }
     }
   }
 }
