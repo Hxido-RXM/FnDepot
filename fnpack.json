@@ -209,6 +209,22 @@
               "size": 49243405
             }
           }
+        },
+        "1.3.8": {
+          "changelog": "自动构建：nginx 1.31.7（主线）/ 1.30.6（稳定）",
+          "updated_at": "2026-10-19T08:59:37Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/1.3.8/Nginx-1.3.8-x86.fpk",
+              "sha256": "aaf1b058acfff67ca4c4fb87522fa79fabf09af1855a234635111ca4a1acffe6",
+              "size": 53199276
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/1.3.8/Nginx-1.3.8-arm.fpk",
+              "sha256": "98c8a2521f2141d46e048ce212d31184edd144a452a9fe1cdc97c588e1b07a69",
+              "size": 49771718
+            }
+          }
         }
       }
     },
