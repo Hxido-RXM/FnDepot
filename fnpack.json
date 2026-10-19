@@ -347,6 +347,26 @@
           }
         }
       }
+    },
+    "wb2api": {
+      "releases": {
+        "1.0.261019": {
+          "changelog": "自动构建：wb2api 1.13.0",
+          "updated_at": "2026-10-19T09:08:31Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/wb2api-1.0.261019/wb2api-1.0.261019-x86.fpk",
+              "sha256": "5de9ad4c18d72585cbac3e6409d8b43b0fe61ecc43db2e0b661f3afe90378218",
+              "size": 3762667
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/wb2api-1.0.261019/wb2api-1.0.261019-arm.fpk",
+              "sha256": "affca8c67b70f4114c10567e14d2ed78c776fbdcabfc5691a8b2391773bf5927",
+              "size": 3503817
+            }
+          }
+        }
+      }
     }
   }
 }
