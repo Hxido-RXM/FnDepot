@@ -447,6 +447,26 @@
           }
         }
       }
+    },
+    "Navidrome": {
+      "releases": {
+        "1.0.261019": {
+          "changelog": "自动构建：Navidrome 0.64.2",
+          "updated_at": "2026-10-19T09:19:54Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Navidrome-1.0.261019/Navidrome-1.0.261019-x86.fpk",
+              "sha256": "519cd0364ac1fc1b94fb587fad075792cf72a9fb604d6e4d910c44c184f0d968",
+              "size": 25393423
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Navidrome-1.0.261019/Navidrome-1.0.261019-arm.fpk",
+              "sha256": "41d4e0098e8f53e73f92ce477399126135ae996af2de4116a6dc553aa3a3eb72",
+              "size": 23865669
+            }
+          }
+        }
+      }
     }
   }
 }
