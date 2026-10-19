@@ -327,6 +327,26 @@
           }
         }
       }
+    },
+    "bunjs": {
+      "releases": {
+        "1.0.261019": {
+          "changelog": "自动构建：bunjs 1.4.3",
+          "updated_at": "2026-10-19T09:07:28Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/bunjs-1.0.261019/bunjs-1.0.261019-x86.fpk",
+              "sha256": "2321cece7867f552a5a33cc3c009bcd7f1c58fbc8eee8932c57768213a0290fc",
+              "size": 42970746
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/bunjs-1.0.261019/bunjs-1.0.261019-arm.fpk",
+              "sha256": "618d4ae1d66487a811a95f3a4a318ac5a21d475670bbdcd4a691e62f274f766e",
+              "size": 43526345
+            }
+          }
+        }
+      }
     }
   }
 }
