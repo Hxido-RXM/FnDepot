@@ -469,6 +469,22 @@
               "size": 66513241
             }
           }
+        },
+        "1.0.261020": {
+          "changelog": "自动构建：golang 1.27.3",
+          "updated_at": "2026-10-26T09:18:34Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/golang-1.0.261020/golang-1.0.261020-x86.fpk",
+              "sha256": "17b57f4bd2cd14708c77cae28787ec4413cbc2b630f7e63caa99c5260ae94b57",
+              "size": 69985097
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/golang-1.0.261020/golang-1.0.261020-arm.fpk",
+              "sha256": "229b5bf1ddac62147bfb689eeeec35df3b347cfe33e517e5dfaaae169ab89a91",
+              "size": 66502358
+            }
+          }
         }
       }
     },
