@@ -633,6 +633,22 @@
               "size": 33090849
             }
           }
+        },
+        "1.0.261020": {
+          "changelog": "自动构建：nodejs_v26 26.12.1",
+          "updated_at": "2026-10-26T09:24:02Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/nodejs_v26-1.0.261020/nodejs_v26-1.0.261020-x86.fpk",
+              "sha256": "25c3f4b295f25018e6fdaf6bc18de583f12b88cc5f20f9c377eddc3d8af3c47b",
+              "size": 34177316
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/nodejs_v26-1.0.261020/nodejs_v26-1.0.261020-arm.fpk",
+              "sha256": "b00f90ff00cd0713d1574f589944afdbab48d96c2aa49877793067d3cbe33c44",
+              "size": 33107313
+            }
+          }
         }
       }
     },
