@@ -669,6 +669,22 @@
               "size": 11214673
             }
           }
+        },
+        "1.0.261020": {
+          "changelog": "自动构建：Syncthing 2.1.7",
+          "updated_at": "2026-10-26T09:24:34Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Syncthing-1.0.261020/Syncthing-1.0.261020-x86.fpk",
+              "sha256": "3e1d05e3596e3d38a8e6f2dd1ab52f35b16f1cf970f9185f5bc12a042c493add",
+              "size": 14381695
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Syncthing-1.0.261020/Syncthing-1.0.261020-arm.fpk",
+              "sha256": "c250100349c4ce2ddac268831c86554a7254ff6cdbf6f9cba81b27142c0ccf55",
+              "size": 13295165
+            }
+          }
         }
       }
     },
