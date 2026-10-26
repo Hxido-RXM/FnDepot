@@ -706,6 +706,26 @@
           }
         }
       }
+    },
+    "Yarr": {
+      "releases": {
+        "1.0.261026": {
+          "changelog": "自动构建：Yarr 2.9",
+          "updated_at": "2026-10-26T09:24:14Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Yarr-1.0.261026/Yarr-1.0.261026-x86.fpk",
+              "sha256": "1bee01a3b5576382c79ab189b7f2f61ffd9d7800ed6dd224c6399d11bffa2269",
+              "size": 6775518
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Yarr-1.0.261026/Yarr-1.0.261026-arm.fpk",
+              "sha256": "43a371c0710c46f2ae47f037f7580a36900f9e267975fa0560ab03dd9abb8136",
+              "size": 6303659
+            }
+          }
+        }
+      }
     }
   }
 }
