@@ -661,6 +661,22 @@
               "size": 31228997
             }
           }
+        },
+        "1.0.261021": {
+          "changelog": "自动构建：Ntfy 2.36.0",
+          "updated_at": "2026-11-02T11:43:34Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Ntfy-1.0.261021/Ntfy-1.0.261021-x86.fpk",
+              "sha256": "ca8723c0c2f10557afdbb64a6e73ca178cb7f84e36f6bae79522b09009822ba8",
+              "size": 32689034
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Ntfy-1.0.261021/Ntfy-1.0.261021-arm.fpk",
+              "sha256": "4b24b554b93c179baf249bcf7e24b140b2a3a5fbc8bff6997b5d0f862068fe45",
+              "size": 31276656
+            }
+          }
         }
       }
     },
