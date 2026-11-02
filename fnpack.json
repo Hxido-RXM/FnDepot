@@ -589,6 +589,22 @@
               "size": 31031261
             }
           }
+        },
+        "1.0.261021": {
+          "changelog": "自动构建：nodejs_v24 24.22.2",
+          "updated_at": "2026-11-02T11:41:12Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/nodejs_v24-1.0.261021/nodejs_v24-1.0.261021-x86.fpk",
+              "sha256": "c65691812c9219e5f360ff8f1cf58b49c47a457cec09fea8bf67237f1d485593",
+              "size": 32093068
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/nodejs_v24-1.0.261021/nodejs_v24-1.0.261021-arm.fpk",
+              "sha256": "e5fd0003b0f3022ae7861eac03435d31ee257f9661fa6a782f1d448451261546",
+              "size": 31020393
+            }
+          }
         }
       }
     },
