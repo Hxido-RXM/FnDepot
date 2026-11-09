@@ -349,6 +349,22 @@
               "size": 11610515
             }
           }
+        },
+        "1.0.261020": {
+          "changelog": "自动构建：AdGuard 0.107.80",
+          "updated_at": "2026-11-09T11:24:00Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/AdGuard-1.0.261020/AdGuard-1.0.261020-x86.fpk",
+              "sha256": "94d63bb13289a09098d425ecc058d427bd0aca62a7203e8c9337d31e995687ef",
+              "size": 12780944
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/AdGuard-1.0.261020/AdGuard-1.0.261020-arm.fpk",
+              "sha256": "a9a8707974f2bbfff68c833152693514c5a2c084eff3e45208e10b0b10bb5b77",
+              "size": 11739749
+            }
+          }
         }
       }
     },
