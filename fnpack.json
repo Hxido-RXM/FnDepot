@@ -951,6 +951,17 @@
               "size": 65408501
             }
           }
+        },
+        "1.0.261021": {
+          "changelog": "自动构建：PeerBanHelper 9.5.5",
+          "updated_at": "2026-11-16T12:06:58Z",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/PeerBanHelper-1.0.261021/PeerBanHelper-1.0.261021-all.fpk",
+              "sha256": "51085f5c2f159d3024b2ccd16a5de3e895661adf0bf1e3a8b482304cb128bbda",
+              "size": 65408456
+            }
+          }
         }
       }
     },
