@@ -261,6 +261,22 @@
               "size": 4404121
             }
           }
+        },
+        "1.0.2": {
+          "changelog": "自动构建：ddns-go v6.17.8",
+          "updated_at": "2026-11-16T10:52:52Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/DDNS-GO-1.0.2/DDNS-GO-1.0.2-x86.fpk",
+              "sha256": "b5a58a218f3178ddd3c9306ab51dbbfbfebf983354f7479d0d01c32fc09091e3",
+              "size": 4899514
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/DDNS-GO-1.0.2/DDNS-GO-1.0.2-arm.fpk",
+              "sha256": "3a4430fff1826dc6b0a6a41792b75bbc6094b2447c37612d8e198b1ddd835934",
+              "size": 4463205
+            }
+          }
         }
       }
     },
