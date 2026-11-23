@@ -1121,6 +1121,22 @@
               "size": 4932378
             }
           }
+        },
+        "1.0.261021": {
+          "changelog": "自动构建：Tomato 2.4.18",
+          "updated_at": "2026-11-23T14:06:07Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Tomato-1.0.261021/Tomato-1.0.261021-x86.fpk",
+              "sha256": "23b10868f00071655a7f47a1c862a1c853440abdb2d4fd6558480a51449cbe5f",
+              "size": 5036687
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Tomato-1.0.261021/Tomato-1.0.261021-arm.fpk",
+              "sha256": "fe653817cf8d676395202b9eed41de748e982ec75d571ccdfe10b8f0953ee373",
+              "size": 4933712
+            }
+          }
         }
       }
     },
