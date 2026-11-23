@@ -549,6 +549,22 @@
               "size": 38825279
             }
           }
+        },
+        "1.0.261023": {
+          "changelog": "自动构建：Ech0 6.0.0",
+          "updated_at": "2026-11-23T12:56:38Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Ech0-1.0.261023/Ech0-1.0.261023-x86.fpk",
+              "sha256": "d9cead9c31d08c0ea9a803756085826982417cd478678b0c103d8e7e8743d6c1",
+              "size": 41823483
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/Ech0-1.0.261023/Ech0-1.0.261023-arm.fpk",
+              "sha256": "e60aae79c8d3fab6a395701cca1bc342d6283a408a10bd3853fee15a70514e03",
+              "size": 38934766
+            }
+          }
         }
       }
     },
