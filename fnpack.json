@@ -409,6 +409,22 @@
               "size": 86322408
             }
           }
+        },
+        "2026.11.28": {
+          "changelog": "更新测试版本",
+          "updated_at": "2026-11-28T06:54:27Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/2026.11.28/Openlist-beta-2026.11.28-x86.fpk",
+              "sha256": "defbf532e549cf65a6997f15735234639b98f56e82d36ee7247108735bdb5d3c",
+              "size": 91253050
+            },
+            "arm": {
+              "download_url": "https://github.com/Hxido-RXM/FnDepot/releases/download/2026.11.28/Openlist-beta-2026.11.28-arm.fpk",
+              "sha256": "f1fe0d33dbc10e1faf33609e372d1abf1c1098c1a3565de9d5fd17dd9cb7049f",
+              "size": 86348668
+            }
+          }
         }
       }
     },
